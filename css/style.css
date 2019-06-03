@@ -157,6 +157,7 @@ img {
 }
 .show {
     display: block !important;
+    transition: all 1000 ease-in;
 }
 
 #tab-1-content .tab-1-content-inner{
